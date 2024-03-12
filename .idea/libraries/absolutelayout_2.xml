@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="absolutelayout-2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/absolutelayout-2/LGoodDatePicker-8.2.2.zip.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/absolutelayout-2/LGoodDatePicker-8.2.2.zip-3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/absolutelayout-2/LGoodDatePicker-8.2.2.zip-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/absolutelayout-2/AbsoluteLayout.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

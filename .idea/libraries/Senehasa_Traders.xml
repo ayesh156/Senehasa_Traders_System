@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Senehasa_Traders">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Senehasa_Traders.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
